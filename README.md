@@ -1,5 +1,11 @@
 # logbook
 
+- JSON Object
+https://youtu.be/qACmtQFEWOw?t=1161
+
+- store to local storage
+https://youtu.be/qACmtQFEWOw?t=1988
+
 - output JSON data API 
 https://youtu.be/qACmtQFEWOw?t=2855
 
