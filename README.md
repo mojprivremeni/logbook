@@ -17,3 +17,9 @@ https://youtu.be/qACmtQFEWOw?t=3781
 
 - using JavaScript MAP to output values
 https://youtu.be/qACmtQFEWOw?t=4192
+
+- value to uppercase
+https://youtu.be/qACmtQFEWOw?t=4431
+
+- get more data from JSON
+https://youtu.be/qACmtQFEWOw?t=4629
