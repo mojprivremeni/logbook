@@ -31,3 +31,8 @@ https://youtu.be/qACmtQFEWOw?t=5100
 
 - JSON Overview
 https://youtu.be/qACmtQFEWOw?t=5763
+
+# JavaScript Object oriented programming
+23.07.19
+- object
+https://youtu.be/PFmuCDHHpwk?t=671
