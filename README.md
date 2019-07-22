@@ -25,3 +25,6 @@ https://youtu.be/qACmtQFEWOw?t=4431
 
 - get more data from JSON
 https://youtu.be/qACmtQFEWOw?t=4629
+
+- Google spreadsheet and JSON
+https://youtu.be/qACmtQFEWOw?t=5100
