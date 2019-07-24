@@ -36,3 +36,18 @@ https://youtu.be/qACmtQFEWOw?t=5763
 23.07.19
 - object
 https://youtu.be/PFmuCDHHpwk?t=671
+
+- object literals
+https://youtu.be/PFmuCDHHpwk?t=715
+
+- factories (factory function & constructor function)
+https://youtu.be/PFmuCDHHpwk?t=899
+
+- constructors 
+https://youtu.be/PFmuCDHHpwk?t=1071
+
+- constructor property
+https://youtu.be/PFmuCDHHpwk?t=1409
+
+- functions are Objects
+https://youtu.be/PFmuCDHHpwk?t=1553
