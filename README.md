@@ -51,3 +51,12 @@ https://youtu.be/PFmuCDHHpwk?t=1409
 
 - functions are Objects
 https://youtu.be/PFmuCDHHpwk?t=1553
+
+- value vs reference types
+https://youtu.be/PFmuCDHHpwk?t=1869
+
+- enumerating properties
+https://youtu.be/PFmuCDHHpwk?t=2455
+
+- adding/removing properties
+https://youtu.be/PFmuCDHHpwk?t=2220
