@@ -60,3 +60,9 @@ https://youtu.be/PFmuCDHHpwk?t=2455
 
 - adding/removing properties
 https://youtu.be/PFmuCDHHpwk?t=2220
+
+# JavaScript Net Ninja
+21.08.19
+- Numbers
+- Template strings
+
