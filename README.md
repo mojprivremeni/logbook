@@ -65,4 +65,6 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 21.08.19
 - Numbers
 - Template strings
+- Array
+- Data types /null, undefined, booleans/
 
