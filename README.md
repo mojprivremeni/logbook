@@ -67,4 +67,9 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - Template strings
 - Array
 - Data types /null, undefined, booleans/
+23.08.19
+- loose vs strict comparison
+- type conversion
+- control flow (for, while ...)
+- 
 
