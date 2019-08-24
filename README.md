@@ -71,5 +71,7 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - loose vs strict comparison
 - type conversion
 - control flow (for, while ...)
-- 
+24.08.2019
+- condition 
+
 
