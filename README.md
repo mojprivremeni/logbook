@@ -73,5 +73,8 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - control flow (for, while ...)
 24.08.2019
 - condition 
+25.08.2019
+- function
+
 
 
