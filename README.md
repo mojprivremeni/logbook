@@ -79,5 +79,11 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 25.08.2019
 - function
 
+26.08.2019
+- arrow function
+- function vs methods
+- foreach & callback
+
+
 
 
