@@ -83,7 +83,7 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - arrow function
 - function vs methods
 - foreach & callback
-
+- functions https://youtu.be/mhYk11QpF7c
 
 
 
