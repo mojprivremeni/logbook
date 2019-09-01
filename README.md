@@ -85,5 +85,12 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - foreach & callback
 - functions https://youtu.be/mhYk11QpF7c
 
+31.08.2019
+- object
+
+01.09.2019
+## Objects explore and learn about object
+- objects introduction
+- object literals
 
 
