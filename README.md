@@ -93,4 +93,9 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - objects introduction
 - object literals
 
+02.09.2019
+- object constructor
+- dot notation and bracket notation
+
+
 
