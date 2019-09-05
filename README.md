@@ -96,6 +96,10 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 02.09.2019
 - object constructor
 - dot notation and bracket notation
-
+- this
+- object constructor
+- class object
+- object properties
+- keys and values
 
 
