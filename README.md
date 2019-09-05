@@ -62,44 +62,53 @@ https://youtu.be/PFmuCDHHpwk?t=2455
 https://youtu.be/PFmuCDHHpwk?t=2220
 
 # JavaScript Net Ninja
-21.08.19
+21.08.19.
 - Numbers
 - Template strings
 - Array
 - Data types /null, undefined, booleans/
 
-23.08.19
+23.08.19.
 - loose vs strict comparison
 - type conversion
 - control flow (for, while ...)
 
-24.08.2019
+24.08.2019.
 - condition 
 
-25.08.2019
+25.08.2019.
 - function
 
-26.08.2019
+26.08.2019.
 - arrow function
 - function vs methods
 - foreach & callback
 - functions https://youtu.be/mhYk11QpF7c
 
-31.08.2019
+31.08.2019.
 - object
 
-01.09.2019
-## Objects explore and learn about object
+01.09.2019.
+### Objects explore and learn about object
 - objects introduction
 - object literals
 
-02.09.2019
+02.09.2019.
 - object constructor
 - dot notation and bracket notation
 - this
+
+05.09.2019.
 - object constructor
 - class object
 - object properties
 - keys and values
+
+05.09.2019.
+### JavaScript Net Ninja
+- Interacting with the browser
+- query selector
+- change page content
+- getting and setting attributes
 
 
