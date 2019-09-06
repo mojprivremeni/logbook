@@ -111,4 +111,8 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - change page content
 - getting and setting attributes
 
+06.09.2019.
+- changing CSS
+- adding and removing classes
+
 
