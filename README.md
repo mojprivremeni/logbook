@@ -114,5 +114,10 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 06.09.2019.
 - changing CSS
 - adding and removing classes
+- parents, children & siblings
+
+07.09.2019
+- events
+
 
 
