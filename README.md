@@ -119,5 +119,7 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 07.09.2019
 - events
 
+11.09.2019
+- DOM events (popup)
 
 
