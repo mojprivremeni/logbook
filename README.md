@@ -122,4 +122,6 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 11.09.2019
 - DOM events (popup)
 
+16.09.2019
+- Project quiz
 
