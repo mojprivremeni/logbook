@@ -129,5 +129,5 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 - Project quiz score update
 
 20.09.2019
-- Array methods (filter, 
+- Array methods (filter, map, reduce, sort)
 
