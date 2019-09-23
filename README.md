@@ -131,3 +131,5 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 20.09.2019
 - Array methods (filter, map, reduce, sort)
 
+23.09.2019
+- Todo list
