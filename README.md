@@ -133,3 +133,7 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 
 23.09.2019
 - Todo list
+
+28.09.2019
+- async
+
