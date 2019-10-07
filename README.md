@@ -137,3 +137,5 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 28.09.2019
 - async
 
+07.10.2019
+- callback and promises ( https://youtu.be/ubUQfeWSYk4 )
