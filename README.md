@@ -139,3 +139,10 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 
 07.10.2019
 - callback and promises ( https://youtu.be/ubUQfeWSYk4 )
+
+10.10.2019
+- Weather app
+
+19.10.2019
+- Application data (local storage)
+
