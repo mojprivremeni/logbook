@@ -146,3 +146,5 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 19.10.2019
 - Application data (local storage)
 
+21.10.2019
+- Object Oriented JS
