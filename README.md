@@ -148,3 +148,6 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 
 21.10.2019
 - Object Oriented JS
+
+05.11.2019
+- firebase database
