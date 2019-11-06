@@ -151,3 +151,8 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 
 05.11.2019
 - firebase database
+
+06.11.2019
+### Firebase firestore 
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB
+
