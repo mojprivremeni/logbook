@@ -156,3 +156,6 @@ https://youtu.be/PFmuCDHHpwk?t=2220
 ### Firebase firestore 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB
 
+15.11.2019
+### Intro to JS - shopping cart
+https://www.youtube.com/playlist?list=PLoN_ejT35AEgHTABdFDPCA6MBHz2v5rOQ
