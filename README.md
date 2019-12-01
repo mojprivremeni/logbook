@@ -159,3 +159,8 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB
 15.11.2019
 ### Intro to JS - shopping cart
 https://www.youtube.com/playlist?list=PLoN_ejT35AEgHTABdFDPCA6MBHz2v5rOQ
+
+01.12.2019
+### Intro to JS - JS Quiz Tutorial
+https://www.youtube.com/playlist?list=PLoN_ejT35AEi46ndNXT9TpSxLnVNy4Pqn
+
