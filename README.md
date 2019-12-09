@@ -164,3 +164,6 @@ https://www.youtube.com/playlist?list=PLoN_ejT35AEgHTABdFDPCA6MBHz2v5rOQ
 ### Intro to JS - JS Quiz Tutorial
 https://www.youtube.com/playlist?list=PLoN_ejT35AEi46ndNXT9TpSxLnVNy4Pqn
 
+09.12.2019
+### JavaScript Programming All-in-One Tutorial Series (9 HOURS!)
+https://youtu.be/9M4XKi25I2M
