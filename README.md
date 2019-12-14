@@ -170,25 +170,25 @@ https://youtu.be/9M4XKi25I2M
 
 
 Timestamps:
-9M4XKi25I2M&t=70s         1:10 - Intro to JavaScript
-9M4XKi25I2M&t=301s        5:01  - Our First JavaScript Program
-9M4XKi25I2M&t=776s        12:56 - Manipulating HTML with JavaScript
-9M4XKi25I2M&t=1180s       19:40 - Basic, Input, Output, Comments
-9M4XKi25I2M&t=1587s       26:27 - Application Architecture
-9M4XKi25I2M&t=1886s       31:26 - Variables and Expressions
-9M4XKi25I2M&t=2293s       38:13 - IIFE, Scope, and Window Object
-9M4XKi25I2M&t=2673s       44:33 - Engines and Runtime Environments
-9M4XKi25I2M&t=3216s       53:36 - Global vs Local Variables
-9M4XKi25I2M&t=3561s       59:21 - Block Scoping
-9M4XKi25I2M&t=3893s     1:04:53 - Primitives and Objects
-9M4XKi25I2M&t=4536s     1:15:36 - Difference Between Primitives and Objects
-9M4XKi25I2M&t=4802s     1:20:02 - Number Data Type
-9M4XKi25I2M&t=5108s     1:25:08 - Arithmetic Operators, Precedence, Associativity
-9M4XKi25I2M&t=5392s     1:29:52 - Increment, Decrement, and Assignment Operators
-9M4XKi25I2M&t=5736s     1:35:36 - parseInt and parseFloat Methods
-9M4XKi25I2M&t=5951s     1:39:11 - Converting Decimal Numbers to Binary, Octal, and Hexadecimal
-9M4XKi25I2M&t=6258s     1:44:18 - Number Instance Methods and Math Object
-9M4XKi25I2M&t=6679s     1:51:19 - String Data Type
+9M4XKi25I2M&t=70s         1:10 - Intro to JavaScript  
+9M4XKi25I2M&t=301s        5:01  - Our First JavaScript Program  
+9M4XKi25I2M&t=776s        12:56 - Manipulating HTML with JavaScript  
+9M4XKi25I2M&t=1180s       19:40 - Basic, Input, Output, Comments  
+9M4XKi25I2M&t=1587s       26:27 - Application Architecture  
+9M4XKi25I2M&t=1886s       31:26 - Variables and Expressions  
+9M4XKi25I2M&t=2293s       38:13 - IIFE, Scope, and Window Object  
+9M4XKi25I2M&t=2673s       44:33 - Engines and Runtime Environments  
+9M4XKi25I2M&t=3216s       53:36 - Global vs Local Variables  
+9M4XKi25I2M&t=3561s       59:21 - Block Scoping  
+9M4XKi25I2M&t=3893s     1:04:53 - Primitives and Objects  
+9M4XKi25I2M&t=4536s     1:15:36 - Difference Between Primitives and Objects  
+9M4XKi25I2M&t=4802s     1:20:02 - Number Data Type  
+9M4XKi25I2M&t=5108s     1:25:08 - Arithmetic Operators, Precedence, Associativity  
+9M4XKi25I2M&t=5392s     1:29:52 - Increment, Decrement, and Assignment Operators  
+9M4XKi25I2M&t=5736s     1:35:36 - parseInt and parseFloat Methods  
+9M4XKi25I2M&t=5951s     1:39:11 - Converting Decimal Numbers to Binary, Octal, and Hexadecimal  
+9M4XKi25I2M&t=6258s     1:44:18 - Number Instance Methods and Math Object  
+9M4XKi25I2M&t=6679s     1:51:19 - String Data Type  
 9M4XKi25I2M&t=7028s     1:57:08 - String Methods
 9M4XKi25I2M&t=8447s     2:20:47 - More String Methods
 9M4XKi25I2M&t=7796s     2:09:56 - Functions and Objects
