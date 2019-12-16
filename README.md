@@ -197,10 +197,11 @@ Timestamps:
 9M4XKi25I2M&t=8721s     2:25:21 - Comparison Operators  
 9M4XKi25I2M&t=8888s     2:28:08 - Logical Operators  
 9M4XKi25I2M&t=9123s     2:32:03 - Switch Statement  
-9M4XKi25I2M&t=9431s     2:37:11 - Single Line if Statement
-9M4XKi25I2M&t=9626s     2:40:26 - Ternary Operator
-9M4XKi25I2M&t=9911s     2:45:11 - Intro to Loops
-9M4XKi25I2M&t=10273s    2:51:13 - Creating Loops
+9M4XKi25I2M&t=9431s     2:37:11 - Single Line if Statement  
+9M4XKi25I2M&t=9626s     2:40:26 - Ternary Operator  
+9M4XKi25I2M&t=9911s     2:45:11 - Intro to Loops  
+9M4XKi25I2M&t=10273s    2:51:13 - Creating Loops  
+
 9M4XKi25I2M&t=10688s    2:58:08 - Loop Examples
 9M4XKi25I2M&t=11231s    3:07:11 - Break and Continue
 9M4XKi25I2M&t=11598s    3:13:18 - Nested Loops
