@@ -201,15 +201,16 @@ Timestamps:
 9M4XKi25I2M&t=9626s     2:40:26 - Ternary Operator  
 9M4XKi25I2M&t=9911s     2:45:11 - Intro to Loops  
 9M4XKi25I2M&t=10273s    2:51:13 - Creating Loops  
+9M4XKi25I2M&t=10688s    2:58:08 - Loop Examples  
+9M4XKi25I2M&t=11231s    3:07:11 - Break and Continue  
+9M4XKi25I2M&t=11598s    3:13:18 - Nested Loops  
+9M4XKi25I2M&t=11995s    3:19:55 - Intro to Arrays  
+9M4XKi25I2M&t=12375s    3:26:15 - Intro to Multidimensional Arrays  
+9M4XKi25I2M&t=12787s    3:33:07 - Using Arrays  
+9M4XKi25I2M&t=13142s    3:39:02 - Iterate Through Array Examples Search an Array  
 
-9M4XKi25I2M&t=10688s    2:58:08 - Loop Examples
-9M4XKi25I2M&t=11231s    3:07:11 - Break and Continue
-9M4XKi25I2M&t=11598s    3:13:18 - Nested Loops
-9M4XKi25I2M&t=11995s    3:19:55 - Intro to Arrays
-9M4XKi25I2M&t=12375s    3:26:15 - Intro to Multidimensional Arrays
-9M4XKi25I2M&t=12787s    3:33:07 - Using Arrays
-9M4XKi25I2M&t=13142s    3:39:02 - Iterate Through Array Examples Search an Array
-9M4XKi25I2M&t=13561s    3:46:01 - Average of Array Values
+
+9M4XKi25I2M&t=13561s    3:46:01 - Average of Array Values  
 9M4XKi25I2M&t=13803s    3:50:03 - Fill Array from User Input Indefinite Loop and Sentinel Value
 9M4XKi25I2M&t=14059s    3:54:19 - Array Methods Part 1
 9M4XKi25I2M&t=14527s    4:02:07 - Array Methods Part 2
