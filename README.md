@@ -225,15 +225,12 @@ Timestamps:
 9M4XKi25I2M&t=19555s    5:25:55 - Function Declarations and Expressions  
 9M4XKi25I2M&t=19746s    5:29:06 - Hoisting  
 9M4XKi25I2M&t=20023s    5:33:43 - Hoisting in Practice  
+9M4XKi25I2M&t=20396s    5:39:56 - Functions as First Class Citizens (Objects)  
+9M4XKi25I2M&t=20804s    5:46:44 - Memoization and Algorithms Optimization  
+9M4XKi25I2M&t=21308s    5:55:08 - Default Parameters, Rest Parameters, Implicit Parameters  
 
 
 
-
-
-
-9M4XKi25I2M&t=20396s    5:39:56 - Functions as First Class Citizens (Objects)
-9M4XKi25I2M&t=20804s    5:46:44 - Memoization and Algorithms Optimization
-9M4XKi25I2M&t=21308s    5:55:08 - Default Parameters, Rest Parameters, Implicit Parameters
 9M4XKi25I2M&t=21802s    6:03:22 - Introduction to this
 9M4XKi25I2M&t=22120s    6:08:40 - this
 9M4XKi25I2M&t=22502s    6:15:02 - Call and Apply
