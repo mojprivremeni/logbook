@@ -228,13 +228,12 @@ Timestamps:
 9M4XKi25I2M&t=20396s    5:39:56 - Functions as First Class Citizens (Objects)  
 9M4XKi25I2M&t=20804s    5:46:44 - Memoization and Algorithms Optimization  
 9M4XKi25I2M&t=21308s    5:55:08 - Default Parameters, Rest Parameters, Implicit Parameters  
+9M4XKi25I2M&t=21802s    6:03:22 - Introduction to this  
+9M4XKi25I2M&t=22120s    6:08:40 - this  
+9M4XKi25I2M&t=22502s    6:15:02 - Call and Apply  
+9M4XKi25I2M&t=22682s    6:18:02 - bind  
 
 
-
-9M4XKi25I2M&t=21802s    6:03:22 - Introduction to this
-9M4XKi25I2M&t=22120s    6:08:40 - this
-9M4XKi25I2M&t=22502s    6:15:02 - Call and Apply
-9M4XKi25I2M&t=22682s    6:18:02 - bind
 9M4XKi25I2M&t=22829s    6:20:29 - Arrow Function
 9M4XKi25I2M&t=23105s    6:25:05 - Creating Arrow Functions
 9M4XKi25I2M&t=23336s    6:28:56 - this with Arrow Functions
