@@ -232,16 +232,17 @@ Timestamps:
 9M4XKi25I2M&t=22120s    6:08:40 - this  
 9M4XKi25I2M&t=22502s    6:15:02 - Call and Apply  
 9M4XKi25I2M&t=22682s    6:18:02 - bind  
+9M4XKi25I2M&t=22829s    6:20:29 - Arrow Function  
+9M4XKi25I2M&t=23105s    6:25:05 - Creating Arrow Functions  
+9M4XKi25I2M&t=23336s    6:28:56 - this with Arrow Functions  
+9M4XKi25I2M&t=23579s    6:32:59 - this with Arrow Methods and Object Literals  
+9M4XKi25I2M&t=23802s    6:36:42 - bind with Arrow Functions  
+9M4XKi25I2M&t=23960s    6:39:20 - Intro to Debugging  
+9M4XKi25I2M&t=24238s    6:43:58 - Event Listener Breakpoints  
+9M4XKi25I2M&t=24438s    6:47:18 - Exemptions (Throw, Catch, Finally)  
 
 
-9M4XKi25I2M&t=22829s    6:20:29 - Arrow Function
-9M4XKi25I2M&t=23105s    6:25:05 - Creating Arrow Functions
-9M4XKi25I2M&t=23336s    6:28:56 - this with Arrow Functions
-9M4XKi25I2M&t=23579s    6:32:59 - this with Arrow Methods and Object Literals
-9M4XKi25I2M&t=23802s    6:36:42 - bind with Arrow Functions
-9M4XKi25I2M&t=23960s    6:39:20 - Intro to Debugging
-9M4XKi25I2M&t=24238s    6:43:58 - Event Listener Breakpoints
-9M4XKi25I2M&t=24438s    6:47:18 - Exemptions (Throw, Catch, Finally)
+
 9M4XKi25I2M&t=24840s    6:54:00 - Object Oriented JavaScript
 9M4XKi25I2M&t=25089s    6:58:09 - Creating a Constructor Function
 9M4XKi25I2M&t=25406s    7:03:26 - Creating a Factory Function
