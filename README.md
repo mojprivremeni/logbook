@@ -240,15 +240,14 @@ Timestamps:
 9M4XKi25I2M&t=23960s    6:39:20 - Intro to Debugging  
 9M4XKi25I2M&t=24238s    6:43:58 - Event Listener Breakpoints  
 9M4XKi25I2M&t=24438s    6:47:18 - Exemptions (Throw, Catch, Finally)  
+9M4XKi25I2M&t=24840s    6:54:00 - Object Oriented JavaScript  
+9M4XKi25I2M&t=25089s    6:58:09 - Creating a Constructor Function  
+9M4XKi25I2M&t=25406s    7:03:26 - Creating a Factory Function  
+9M4XKi25I2M&t=25563s    7:06:03 - Creating Prototype Methods for Constructor Functions  
+9M4XKi25I2M&t=25777s    7:09:37 - Prototype Inheritance  
+9M4XKi25I2M&t=25928s    7:12:08 - Prototypes and Constructors  
 
 
-
-9M4XKi25I2M&t=24840s    6:54:00 - Object Oriented JavaScript
-9M4XKi25I2M&t=25089s    6:58:09 - Creating a Constructor Function
-9M4XKi25I2M&t=25406s    7:03:26 - Creating a Factory Function
-9M4XKi25I2M&t=25563s    7:06:03 - Creating Prototype Methods for Constructor Functions
-9M4XKi25I2M&t=25777s    7:09:37 - Prototype Inheritance
-9M4XKi25I2M&t=25928s    7:12:08 - Prototypes and Constructors 
 9M4XKi25I2M&t=26060s    7:14:20 - Setting an Object Prototype Using Object.setPrototypeOf
 9M4XKi25I2M&t=26225s    7:17:05 - Override in Prototypal Inheritance
 9M4XKi25I2M&t=26426s    7:20:26 - Instance Properties vs Prototype Properties
