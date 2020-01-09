@@ -246,11 +246,13 @@ Timestamps:
 9M4XKi25I2M&t=25563s    7:06:03 - Creating Prototype Methods for Constructor Functions  
 9M4XKi25I2M&t=25777s    7:09:37 - Prototype Inheritance  
 9M4XKi25I2M&t=25928s    7:12:08 - Prototypes and Constructors  
+9M4XKi25I2M&t=26060s    7:14:20 - Setting an Object Prototype Using Object.setPrototypeOf  
+9M4XKi25I2M&t=26225s    7:17:05 - Override in Prototypal Inheritance  
+9M4XKi25I2M&t=26426s    7:20:26 - Instance Properties vs Prototype Properties  
 
 
-9M4XKi25I2M&t=26060s    7:14:20 - Setting an Object Prototype Using Object.setPrototypeOf
-9M4XKi25I2M&t=26225s    7:17:05 - Override in Prototypal Inheritance
-9M4XKi25I2M&t=26426s    7:20:26 - Instance Properties vs Prototype Properties
+
+
 9M4XKi25I2M&t=26751s    7:25:51 - Polymorphism
 9M4XKi25I2M&t=26968s    7:29:28 - Polymorphism Example
 9M4XKi25I2M&t=27179s    7:32:59 - Polymorphism Example
