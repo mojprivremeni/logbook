@@ -249,20 +249,21 @@ Timestamps:
 9M4XKi25I2M&t=26060s    7:14:20 - Setting an Object Prototype Using Object.setPrototypeOf  
 9M4XKi25I2M&t=26225s    7:17:05 - Override in Prototypal Inheritance  
 9M4XKi25I2M&t=26426s    7:20:26 - Instance Properties vs Prototype Properties  
+9M4XKi25I2M&t=26751s    7:25:51 - Polymorphism  
+9M4XKi25I2M&t=26968s    7:29:28 - Polymorphism Example  
+9M4XKi25I2M&t=27179s    7:32:59 - Polymorphism Example  
+9M4XKi25I2M&t=27522s    7:38:42 - Check an Object for a Property Using in  
+9M4XKi25I2M&t=27635s    7:40:35 - hasOwnProperty Method  
+9M4XKi25I2M&t=27736s    7:42:16 - How to Get an Array of Property Names from an Object  
+9M4XKi25I2M&t=27868s    7:44:28 - Converting Object Literals to Constructors  
+9M4XKi25I2M&t=28149s    7:49:09 - Setting Prototypes with Constructors  
+9M4XKi25I2M&t=28282s    7:51:22 - instance Operator  
+9M4XKi25I2M&t=28544s    7:55:44 - HTML Essentials  
 
 
 
 
-9M4XKi25I2M&t=26751s    7:25:51 - Polymorphism
-9M4XKi25I2M&t=26968s    7:29:28 - Polymorphism Example
-9M4XKi25I2M&t=27179s    7:32:59 - Polymorphism Example
-9M4XKi25I2M&t=27522s    7:38:42 - Check an Object for a Property Using in
-9M4XKi25I2M&t=27635s    7:40:35 - hasOwnProperty Method
-9M4XKi25I2M&t=27736s    7:42:16 - How to Get an Array of Property Names from an Object
-9M4XKi25I2M&t=27868s    7:44:28 - Converting Object Literals to Constructors
-9M4XKi25I2M&t=28149s    7:49:09 - Setting Prototypes with Constructors
-9M4XKi25I2M&t=28282s    7:51:22 - instance Operator
-9M4XKi25I2M&t=28544s    7:55:44 - HTML Essentials
+
 9M4XKi25I2M&t=29031s    8:03:51 - CSS Essentials
 9M4XKi25I2M&t=29683s    8:14:43 - Intro to the DOM
 9M4XKi25I2M&t=29811s    8:16:51 - Working with DOM Children
