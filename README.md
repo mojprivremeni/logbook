@@ -259,19 +259,14 @@ Timestamps:
 9M4XKi25I2M&t=28149s    7:49:09 - Setting Prototypes with Constructors  
 9M4XKi25I2M&t=28282s    7:51:22 - instance Operator  
 9M4XKi25I2M&t=28544s    7:55:44 - HTML Essentials  
-
-
-
-
-
-9M4XKi25I2M&t=29031s    8:03:51 - CSS Essentials
-9M4XKi25I2M&t=29683s    8:14:43 - Intro to the DOM
-9M4XKi25I2M&t=29811s    8:16:51 - Working with DOM Children
-9M4XKi25I2M&t=30043s    8:20:43 - getElementsByTagName and getElementsByClassName
-9M4XKi25I2M&t=30203s    8:23:23 - Node Types and Node Names
-9M4XKi25I2M&t=30211s    8:23:31 - Text Node ChildNodes Explained
-9M4XKi25I2M&t=30756s    8:32:36 - Modifying nodeValue
-9M4XKi25I2M&t=30955s    8:35:55 - Practice with Event Listeners
+9M4XKi25I2M&t=29031s    8:03:51 - CSS Essentials  
+9M4XKi25I2M&t=29683s    8:14:43 - Intro to the DOM  
+9M4XKi25I2M&t=29811s    8:16:51 - Working with DOM Children  
+9M4XKi25I2M&t=30043s    8:20:43 - getElementsByTagName and getElementsByClassName  
+9M4XKi25I2M&t=30203s    8:23:23 - Node Types and Node Names  
+9M4XKi25I2M&t=30211s    8:23:31 - Text Node ChildNodes Explained  
+9M4XKi25I2M&t=30756s    8:32:36 - Modifying nodeValue  
+9M4XKi25I2M&t=30955s    8:35:55 - Practice with Event Listeners  
 9M4XKi25I2M&t=31309s    8:41:49 - Working with Attributes in the DOM
 9M4XKi25I2M&t=31574s    8:46:14 - Dynamically Adding Nodes
 9M4XKi25I2M&t=31832s    8:50:32 - Conclusion and What’s Next
