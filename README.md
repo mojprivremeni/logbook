@@ -267,6 +267,8 @@ Timestamps:
 9M4XKi25I2M&t=30211s    8:23:31 - Text Node ChildNodes Explained  
 9M4XKi25I2M&t=30756s    8:32:36 - Modifying nodeValue  
 9M4XKi25I2M&t=30955s    8:35:55 - Practice with Event Listeners  
-9M4XKi25I2M&t=31309s    8:41:49 - Working with Attributes in the DOM
-9M4XKi25I2M&t=31574s    8:46:14 - Dynamically Adding Nodes
-9M4XKi25I2M&t=31832s    8:50:32 - Conclusion and What’s Next
+9M4XKi25I2M&t=31309s    8:41:49 - Working with Attributes in the DOM  
+9M4XKi25I2M&t=31574s    8:46:14 - Dynamically Adding Nodes  
+9M4XKi25I2M&t=31832s    8:50:32 - Conclusion and What’s Next  
+
+
